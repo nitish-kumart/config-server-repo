@@ -12,7 +12,7 @@ spring:
     hibernate:
       ddl-auto: update
   boot:
-     message: Hello, Department Service    
+     message: Hello, Department Service Updated    
 eureka:
   client:
     serverUrl:
